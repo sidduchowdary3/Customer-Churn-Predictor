@@ -80,11 +80,23 @@ Random Forest achieved the **highest accuracy of 94%**.
 
 ## 📈 Accuracy Comparison Graph
 
-![Accuracy Comparison](images/accuracy_comparison.jpg)
+The following graph compares the performance of different machine learning algorithms used in the customer churn prediction model.  
+Among all the algorithms tested, **Random Forest achieved the highest accuracy of 94%**, making it the most effective model for predicting customer churn.
+
+<p align="center">
+  <img src="images/accuracy_comparison.jpg" width="500">
+</p>
+
+---
 
 ## 🖥️ Prediction Example
 
-![Prediction Output](images/prediction_output.jpg)
+The image below shows an example output from the trained machine learning model.  
+Based on the input customer data, the model predicts whether the customer is likely to churn or remain with the service.
+
+<p align="center">
+  <img src="images/prediction_output.jpg" width="500">
+</p>
 
 ---
 
