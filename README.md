@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction using Machine Learning
+# 📊 Customer Churn Prediction
 
 Customer churn prediction is an important task for businesses because losing customers directly impacts revenue. This project uses **supervised machine learning algorithms** to analyze customer behavior and predict whether a customer is likely to churn or not.
 
@@ -100,8 +100,6 @@ Example output from the model:
 - Improve accuracy using **advanced ML or deep learning models**
 
 ---
-
-## 👨‍💻 Author
 
 ## 👨‍💻 Author
 
