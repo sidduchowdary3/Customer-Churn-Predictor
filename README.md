@@ -80,15 +80,11 @@ Random Forest achieved the **highest accuracy of 94%**.
 
 ## 📈 Accuracy Comparison Graph
 
-![Accuracy Comparison](images/accuracy_comparison.png)
-
----
+![Accuracy Comparison](images/accuracy_comparison.jpg)
 
 ## 🖥️ Prediction Example
 
-Example output from the model:
-
-![Prediction Output](images/prediction_output.png)
+![Prediction Output](images/prediction_output.jpg)
 
 ---
 
